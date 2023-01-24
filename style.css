@@ -1,0 +1,74 @@
+body{ 
+    background-color: #666666;
+    color: white;
+}
+main{
+    position: absolute;
+    width: 615px;
+    height: 482px;
+    left: 357px;
+    top: 278px;
+
+    
+}
+h1{
+    font: size 40px;;
+}
+p{
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+img{
+    position:inherit;
+    width: auto;
+    height: auto;
+    left: 700px;
+    top: 1px;
+}
+.foto{
+    border: 4px solid #7CFA5A;
+    border-radius: 16px;
+}
+strong{
+    color: rgb(32, 232, 122);
+}
+span{
+    color: #EFF23F;
+    border: 1px solid #EFF23F;
+    padding: 10px;
+}
+a{  
+    color:#212121;
+    border: 1px solid #EFF23F;
+    border-radius:16px ;
+    padding: 10px;
+    background-color: #EFF23F;
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    cursor: pointer;
+    
+
+}
+.button:hover{
+    background: #7CFA5A;
+    scale: 110%;
+    text-decoration: underline;
+    
+}
+.link{
+    text-align: center;
+    position: absolute;
+    padding: 16px;
+    width: 200px;;
+        
+
+}
+.git{
+    text-align: center;
+    position:absolute;
+    padding:16px;
+    width: 200px;
+    
+    left: 300px;
+}
